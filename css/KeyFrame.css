@@ -1,0 +1,68 @@
+@keyframes type {
+  /* developer */
+  0% { content: "d"; }
+  2% { content: "de"; }
+  4% { content: "dev"; }
+  6% { content: "deve"; }
+  8% { content: "devel"; }
+  10% { content: "develo"; }
+  12% { content: "develop"; }
+  14% { content: "develope"; }
+  16% { content: "developer"; }
+  22% { content: "developer"; }
+
+  24% { content: "develope"; }
+  26% { content: "develop"; }
+  28% { content: "develo"; }
+  30% { content: "devel"; }
+  32% { content: "deve"; }
+  34% { content: "dev"; }
+  36% { content: "de"; }
+  38% { content: ""; }
+
+  /* designer */
+  40% { content: "d"; }
+  42% { content: "de"; }
+  44% { content: "des"; }
+  46% { content: "desi"; }
+  48% { content: "desig"; }
+  50% { content: "design"; }
+  52% { content: "designe"; }
+  54% { content: "designer"; }
+  60% { content: "designer"; }
+
+  62% { content: "designe"; }
+  64% { content: "design"; }
+  66% { content: "desig"; }
+  68% { content: "desi"; }
+  70% { content: "des"; }
+  72% { content: "de"; }
+  74% { content: ""; }
+
+  /* freelancer */
+  76% { content: "f"; }
+  78% { content: "fr"; }
+  80% { content: "fre"; }
+  82% { content: "free"; }
+  84% { content: "freel"; }
+  86% { content: "freela"; }
+  88% { content: "freelan"; }
+  90% { content: "freelance"; }
+  92% { content: "freelancer"; }
+  96% { content: "freelancer"; }
+
+  97% { content: "freelance"; }
+  98% { content: "freelanc"; }
+  99% { content: "freelan"; }
+  100% { content: "freela"; }
+  101% { content: "freel"; }
+  102% { content: "free"; }
+  103% { content: "fre"; }
+  104% { content: "fr"; }
+  105% { content: "f"; }
+  106% { content: ""; }
+}
+@keyframes blink {
+  0%, 100% { border-color: transparent; }
+  50% { border-color: white; }
+}
